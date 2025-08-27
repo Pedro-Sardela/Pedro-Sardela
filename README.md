@@ -2,10 +2,11 @@
 
 #### • 📚     **Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba**
 #### • 👨‍💻     **Focado no desenvolvimento Back-end usando Java e Spring para criar aplicações WEB**
-#### • 👾     **Experiência com desenvolvimento de aplicações para manipulação de dados entre bancos de dados usando Python**
+#### • 👾     **Experiência com desenvolvimento de aplicações para manipulação de dados entre bancos de dados usando Python,
+Além de manutenção em APIs RESTFul em Spring!**
 
 #### • 📫 **<ins>E-mail e LinkedIn:</ins>** <div>
-<a href = "mailto:pedrohenriquecorreaaa.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:pedrohenriquecorreaaa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-correa-b05426340/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
@@ -39,11 +40,7 @@ Sou apaixonado por desenvolvimento de software, especialmente Back-end com Java 
 
 ---
 
-Estatísticas do GitHub
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)
-
----
 
 
 
