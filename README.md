@@ -51,9 +51,9 @@ Sou apaixonado por desenvolvimento de software, especialmente Back-end com Java 
 
 ### Soft Skills
 
-•Trabalho em equipe
-•Resolução de problemas
-•Comunicação
+## •Trabalho em equipe
+## •Resolução de problemas
+## •Comunicação
 
 ---
 
