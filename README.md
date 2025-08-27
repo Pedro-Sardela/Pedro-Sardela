@@ -11,7 +11,7 @@
 
 ---
 
-Sobre Mim
+### Sobre Mim
 
 Sou apaixonado por desenvolvimento de software, especialmente Back-end com Java e Spring Boot. Gosto de criar aplicações robustas, escaláveis e eficientes. Sempre buscando aprender novas tecnologias e melhorar minhas soluções para desafios reais.
 
@@ -29,6 +29,10 @@ Sou apaixonado por desenvolvimento de software, especialmente Back-end com Java 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
+• Nuvem
+
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 • Desenvolvimento Front-end
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
@@ -36,6 +40,20 @@ Sou apaixonado por desenvolvimento de software, especialmente Back-end com Java 
 • Banco de Dados
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](https://skillicons.dev) 
+
+---
+
+### Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,git,vscode,idea)](https://skillicons.dev) 
+
+---
+
+### Soft Skills
+
+•Trabalho em equipe
+•Resolução de problemas
+•Comunicação
 
 ---
 
