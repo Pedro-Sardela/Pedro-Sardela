@@ -2,8 +2,7 @@
 
 #### • 📚     **Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba**
 #### • 👨‍💻     **Focado no desenvolvimento Back-end usando Java e Spring para criar aplicações WEB**
-#### • 👾     **Experiência com desenvolvimento de aplicações para manipulação de dados entre bancos de dados usando Python,
-Além de manutenção em APIs RESTFul em Spring!**
+#### • 👾     **Experiência com desenvolvimento de aplicações para manipulação de dados entre bancos de dados usando Python, Além de manutenção em APIs RESTFul em Spring!**
 
 #### • 📫 **<ins>E-mail e LinkedIn:</ins>** <div>
 <a href = "mailto:pedrohenriquecorreaaa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
