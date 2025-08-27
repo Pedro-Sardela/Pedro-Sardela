@@ -19,8 +19,6 @@ Sou apaixonado por desenvolvimento de software, especialmente Back-end com Java 
 
 ### Conhecimentos
 
----
-
 • Linguagens de Programação
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,js&theme=light)](https://skillicons.dev)
